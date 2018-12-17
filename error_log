@@ -1,0 +1,8 @@
+[02-Dec-2018 09:09:33 America/Chicago] PHP Warning:  include_once(_head.html.php): failed to open stream: No such file or directory in /home2/wss/public_html/henryrodriguez/material/index.php on line 4
+[02-Dec-2018 09:09:33 America/Chicago] PHP Warning:  include_once(): Failed opening '_head.html.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home2/wss/public_html/henryrodriguez/material/index.php on line 4
+[02-Dec-2018 09:09:33 America/Chicago] PHP Warning:  include_once(_body.html.php): failed to open stream: No such file or directory in /home2/wss/public_html/henryrodriguez/material/index.php on line 7
+[02-Dec-2018 09:09:33 America/Chicago] PHP Warning:  include_once(): Failed opening '_body.html.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home2/wss/public_html/henryrodriguez/material/index.php on line 7
+[02-Dec-2018 09:10:26 America/Chicago] PHP Warning:  include_once(_body.html.php): failed to open stream: No such file or directory in /home2/wss/public_html/henryrodriguez/material/index.php on line 7
+[02-Dec-2018 09:10:26 America/Chicago] PHP Warning:  include_once(): Failed opening '_body.html.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home2/wss/public_html/henryrodriguez/material/index.php on line 7
+[02-Dec-2018 09:57:50 America/Chicago] PHP Warning:  include_once(_body.html): failed to open stream: No such file or directory in /home2/wss/public_html/henryrodriguez/material/index.php on line 7
+[02-Dec-2018 09:57:50 America/Chicago] PHP Warning:  include_once(): Failed opening '_body.html' for inclusion (include_path='.:/opt/php70/lib/php') in /home2/wss/public_html/henryrodriguez/material/index.php on line 7
